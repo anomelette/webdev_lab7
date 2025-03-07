@@ -35,8 +35,12 @@ h1 {
   
 }
 
-a {
-  color: pink;
+a:link {
+  color: hotpink;
+}
+
+a:visited {
+  color: blueviolet;
 }
 
 img {
@@ -71,6 +75,3 @@ img {
   width: 250px;
   background-color: rgba(50, 40, 70, .6);
 }
-
-
-
