@@ -6,6 +6,16 @@ td, th {
   vertical-align: middle;
   }
 
+th {
+  font-size: 15pt;
+  font-weight: bold;
+  background-color: rgba(50, 40, 70, .6);
+}
+
+td {
+  color: antiquewhite;
+}
+
 body {
   background-image: url("../images/background.png");
   background-size: cover;
@@ -18,6 +28,16 @@ body {
 
 h1 {
   text-align: center;
+  color: blanchedalmond;
+  font-size: 30pt;
+  background-color: rgba(50, 50, 100, 0.4);
+  width: 80%;
+  max-width: 900px;
+  margin: 40px auto;
+  border-style: groove;
+  border-color: pink;
+  border-width: 2.5px;
+  
 }
 
 img {
@@ -29,32 +49,27 @@ img {
   margin: 0 auto;
 }
 
-#blank{
-  background-color: rgba(50, 40, 70, .6);
-}
-
 #venus{
-  font-weight: bold;
-  background-color: rgba(50, 40, 70, .6);
+  color: palegoldenrod;
 }
 
 #mars{
-  font-weight: bold;
-  background-color: rgba(50, 40, 70, .6);
+  color: lightsalmon;
 }
 
 #jupiter{
-  font-weight: bold;
-  background-color: rgba(50, 40, 70, .6);
+  color: burlywood;
 }
 
 #saturn{
-  font-weight: bold;
-  background-color: rgba(50, 40, 70, .6);
+  color: bisque;
 }
 
 .fact{
   font-weight: bold;
+  font-size: 15pt;
+  color: blanchedalmond;
+  width: 250px;
   background-color: rgba(50, 40, 70, .6);
 }
 
