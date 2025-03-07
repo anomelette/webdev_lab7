@@ -1,6 +1,10 @@
 td, th {
 	border: 1px solid;
   }
+  
+html {
+  background-image: url("../images/background.jpg")
+}
 
 img {
     width: auto;
