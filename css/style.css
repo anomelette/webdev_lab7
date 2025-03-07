@@ -1,5 +1,7 @@
 td, th {
-	border: 1px solid;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: purple;
   }
 
 body {
