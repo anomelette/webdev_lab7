@@ -1,6 +1,6 @@
 td, th {
   border-style: dotted;
-  border-width: 2px;
+  border-width: 2.5px;
   border-color: purple;
   }
 
@@ -8,11 +8,18 @@ body {
   background-image: url("../images/background.png");
   background-size: cover;
   background-repeat: no-repeat;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: white;
 }
 
 img {
   height: 150px;
 }
+
 #planets {
-  background-color: rgba(243, 237, 254, 0.3);
+  background-color: rgba(50, 50, 100, 0.7);
 }
+
+.fact{
+}
+
