@@ -5,11 +5,11 @@ td, th {
   }
 
 body {
-  background-image: url("images/background.png");
+  background-image: url(".../images/background.png");
 }
 
 img {
-  height: 50px;
+  height: 150px;
 }
 #planets {
   background-color: rgba(243, 237, 254, 0.3);
