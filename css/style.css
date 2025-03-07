@@ -1,7 +1,7 @@
 td, th {
-  border-style: dotted;
-  border-width: 2.5px;
-  border-color: purple;
+  border-style: groove;
+  border-width: 3.5px;
+  border-color: lightpink;
   text-align: center;
   vertical-align: middle;
   }
