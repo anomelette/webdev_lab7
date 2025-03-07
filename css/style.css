@@ -1,13 +1,9 @@
 td, th {
 	border: 1px solid;
   }
-  
-html {
-
-}
 
 body {
-  background-image: url(.../images/background.jpg);
+  background-image: url(.../images/background.png);
 }
 
 img {
@@ -19,6 +15,5 @@ img {
   max-height: 125px;
 }
 #planets {
-  background-color:  #f3edfe;
-  opacity: 0.3;
+  background-color: rgba(243, 237, 254, 0.3);
 }
