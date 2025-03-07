@@ -1,6 +1,6 @@
 td, th {
   border-style: groove;
-  border-width: 3.5px;
+  border-width: 2.5px;
   border-color: lightpink;
   text-align: center;
   vertical-align: middle;
@@ -27,6 +27,10 @@ img {
 #planets {
   background-color: rgba(50, 50, 100, 0.7);
   margin: 0 auto;
+}
+
+#blank{
+  background-color: rgba(50, 40, 70, .6);
 }
 
 #venus{
