@@ -12,18 +12,13 @@ th {
   background-color: rgba(50, 40, 70, .6);
 }
 
-td {
-  color: antiquewhite;
-}
-
 body {
   background-image: url("../images/background.png");
   background-size: cover;
   background-repeat: no-repeat;
   font-family: "Comic Sans MS", "Comic Sans", cursive;
-  color: white;
+  color: antiquewhite;
   text-align: center;
-
 }
 
 h1 {
