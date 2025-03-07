@@ -12,6 +12,12 @@ body {
   background-repeat: no-repeat;
   font-family: "Comic Sans MS", "Comic Sans", cursive;
   color: white;
+  text-align: center;
+
+}
+
+h1 {
+  text-align: center;
 }
 
 img {
@@ -20,13 +26,33 @@ img {
 
 #planets {
   background-color: rgba(50, 50, 100, 0.7);
+  margin: 0 auto;
 }
 
-.planet{
+#venus{
   font-weight: bold;
+  background-color: rgba(50, 40, 70, .6);
+}
+
+#mars{
+  font-weight: bold;
+  background-color: rgba(50, 40, 70, .6);
+}
+
+#jupiter{
+  font-weight: bold;
+  background-color: rgba(50, 40, 70, .6);
+}
+
+#saturn{
+  font-weight: bold;
+  background-color: rgba(50, 40, 70, .6);
 }
 
 .fact{
   font-weight: bold;
+  background-color: rgba(50, 40, 70, .6);
 }
+
+
 
